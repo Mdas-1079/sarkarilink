@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SarkariToday - सरकारी नौकरी अपडेट</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f0f8ff;
+      color: #222;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: linear-gradient(45deg, #004aad, #00bcd4);
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      background: #0088cc;
+    }
+    nav a {
+      color: white;
+      padding: 12px 16px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      background: #005577;
+    }
+    .hero {
+      background: #fff3cd;
+      padding: 20px;
+      text-align: center;
+    }
+    .hero h2 {
+      margin-bottom: 10px;
+    }
+    .section {
+      padding: 20px;
+      background: white;
+      margin: 10px;
+      border-radius: 8px;
+      box-shadow: 0 0 8px rgba(0,0,0,0.1);
+    }
+    .section h3 {
+      color: #004aad;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    li {
+      padding: 10px;
+      border-bottom: 1px solid #ddd;
+    }
+    li strong {
+      color: #222;
+    }
+    footer {
+      background: #004aad;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 20px;
+    }
+
+    @media (max-width: 768px) {
+      nav {
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>SarkariToday</h1>
+    <p>India's All Govt Job & Scheme Updates | सरकारी नौकरी और योजना की जानकारी</p>
+  </header>
+
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">Jobs</a>
+    <a href="#">Yojana</a>
+    <a href="#">Admit Card</a>
+    <a href="#">Results</a>
+    <a href="#">Contact</a>
+  </nav>
+
+  <section class="hero">
+    <h2>🔥 लेटेस्ट सरकारी नौकरी 🔥</h2>
+    <p>Find All Central & State Govt Job Updates Here</p>
+  </section>
+
+  <section class="section">
+    <h3>📰 Trending Govt Jobs</h3>
+    <ul>
+      <li><strong>SSC GD Constable 2025</strong> - Apply before 30 June</li>
+      <li><strong>Railway ALP Recruitment</strong> - Vacancy: 5696, Last Date: 20 July</li>
+      <li><strong>UP Police Sub-Inspector</strong> - Application Open Now</li>
+      <li><strong>WBPSC Clerkship</strong> - Notification Released</li>
+    </ul>
+  </section>
+
+  <section class="section">
+    <h3>🎯 Top Sarkari Yojana</h3>
+    <ul>
+      <li><strong>प्रधानमंत्री आवास योजना</strong> - Apply Online Now</li>
+      <li><strong>मुफ़्त राशन कार्ड योजना</strong> - State Wise Benefits</li>
+      <li><strong>कन्या विवाह योजना</strong> - ₹51,000 लाभ</li>
+      <li><strong>PM Kisan Nidhi</strong> - Next Installment Date</li>
+    </ul>
+  </section>
+
+  <section class="section">
+    <h3>📘 Study Materials</h3>
+    <ul>
+      <li><strong>GK 2025 PDF (Hindi + English)</strong></li>
+      <li><strong>Math & Reasoning Practice</strong></li>
+      <li><strong>Previous Year Papers</strong></li>
+    </ul>
+  </section>
+
+  <footer>
+    &copy; 2025 SarkariToday.in | Designed for Bharat | Contact: info@sarkaritoday.in
+  </footer>
+
+</body>
+</html>
+# sarkarilink
+Latest job  for all state in India
